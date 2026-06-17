@@ -6,12 +6,12 @@ Hey there! I'm Naga Sai Likhitha, a third year Computer Science Engineering (AI 
 
 # Skills & Interests:
 
-- Programming Skills: Python, C, C++, HTML, CSS
-- Libraries & Tools: Pandas, NumPy, Scikit-learn, Git, GitHub, VS Code.
-- Database: MySQL
-- Data Structures & Algorithms: Structuring information for efficiency
-- Academic Coursework: Machine Learning, Artificial Intelligence, DBMS, OOP, Operating Systems
-- Interests: Problem Solving ,Machine Learning, Software Development, Open Source Learning, Participating in Hackathons
+- **Programming Skills:** Python, C, C++, HTML, CSS
+- **Libraries & Tools**: Pandas, NumPy, Scikit-learn, Git, GitHub, VS Code.
+- **Database**: MySQL
+- **Data Structures & Algorithms**: Structuring information for efficiency
+- **Academic Coursework**: Machine Learning, Artificial Intelligence, DBMS, OOP, Operating Systems
+- **Interests**: Problem Solving ,Machine Learning, Software Development, Open Source Learning, Participating in Hackathons
 
 
   # Projects

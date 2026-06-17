@@ -16,12 +16,12 @@ Hey there! I'm Naga Sai Likhitha, a third year Computer Science Engineering (AI 
 
   # Projects
 
-- Fake News Detection:
+ **Fake News Detection:**
 - Built a Machine Learning model for fake news classification
 - Performed data preprocessing and model training
 - Achieved 98.66% accuracy
 
-- Campus Navigator and Smart Route Optimizer:
+  **Campus Navigator and Smart Route Optimizer:**
 - Developed an intelligent navigation and route optimization system for efficient campus travel
 - Applied Machine Learning and Data Structures & Algorithms concepts
 - Focused on improving route planning and user accessibility

@@ -29,9 +29,9 @@ Hey there! I'm Naga Sai Likhitha, a third year Computer Science Engineering (AI 
 
   # Connect with Me
   
--Email   : bachunagasailikhitha@gmail.com
--LinkedIn: https://www.linkedin.com/in/bachu-naga-sai-likhitha-880669337/
--GitHub  : https://github.com/Naga-Sai-Likhitha-Bachu
+- Email   : bachunagasailikhitha@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bachu-naga-sai-likhitha-880669337/
+- GitHub  : https://github.com/Naga-Sai-Likhitha-Bachu
 
 
  # Feedback Welcome

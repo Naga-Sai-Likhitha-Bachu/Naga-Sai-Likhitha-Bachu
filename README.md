@@ -1,9 +1,8 @@
-# Naga-Sai-Likhitha-Bachu
 # Hi, I'm Bachu Naga Sai Likhitha
 
 **About me**
 
-Hey there! I'm Naga Sai Likhitha, a Computer Science Engineering (AI & ML) student at Anantha lakshmi Institute of Technology & sciences with a passion for Machine Learning, Data Structures & Algorithms, and building innovative real-world solutions. This profile serves as a platform to showcase my technical skills, projects, and continuous learning journey .
+Hey there! I'm Naga Sai Likhitha, a third year Computer Science Engineering (AI & ML) student at Anantha lakshmi Institute of Technology & sciences with a passion for Machine Learning, Data Structures & Algorithms, and building innovative real-world solutions. This profile serves as a platform to showcase my technical skills, projects, and continuous learning journey .
 
 
 **Skills & Interests:**
@@ -33,10 +32,10 @@ Hey there! I'm Naga Sai Likhitha, a Computer Science Engineering (AI & ML) stude
   
 -Email   : bachunagasailikhitha@gmail.com
 -LinkedIn: https://www.linkedin.com/in/bachu-naga-sai-likhitha-880669337/
--GitHub  : 
+-GitHub  : https://github.com/Naga-Sai-Likhitha-Bachu
 
 
-Feedback Welcome
+**Feedback Welcome**
 
 I am always open to learning, collaboration, and feedback.
 
